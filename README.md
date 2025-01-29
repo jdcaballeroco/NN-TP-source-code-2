@@ -1,7 +1,7 @@
 # NN-TP-source-code-2
 ## Entrega intermedia proyecto
 
-Jesús Daniel Caballero Colina$^1$, Juan Eduardo Bedoya Torres$^2$, Juan Sebastian Peñafiel Ojeda$^2$, Julian Steven Vega Daza$^2$
+Jesús Daniel Caballero Colina $^1$, Juan Eduardo Bedoya Torres $^2$, Juan Sebastian Peñafiel Ojeda $^2$, Julian Steven Vega Daza $^2$
 
 $^1$ *Electrical and Electronic Engineering Department, Universidad Nacional of Colombia*
 
